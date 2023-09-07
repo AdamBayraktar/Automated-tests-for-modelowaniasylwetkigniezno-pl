@@ -3,4 +3,4 @@
 ***
 
 - framework: Playwright
-- Programming language: Typescript
+- Programming language: Python
